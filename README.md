@@ -5,7 +5,7 @@
 <h1 align="center">Belajar My SQL</h1>
 
 <p align="center">
-  Repositori ini berisi tentang hasil pembelajaran saya terkait basic My SQL.
+  Repositori ini berisi tentang hasil pembelajaran saya dalam menguasai basic My SQL.
 </p>
 
 <p align="justify">
