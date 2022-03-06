@@ -18,7 +18,7 @@
 <details><summary>Contains</summary>
  
 <p align="justify">
-  Detail Table :
+  Details Table :
 </p>
   
 <p align="center">
