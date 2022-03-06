@@ -21,7 +21,7 @@
   Details Table :
 </p>
   
-<p align="center">
+<p align="justify">
   Table Categories · Table Customers · Table Guestbooks · Table Orders · Table Product · Table Sellers · Table Wallet · Table Wishlist
 </p>
 
