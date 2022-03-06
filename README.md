@@ -15,16 +15,26 @@
 </p>
   <a href="https://youtu.be/xYBclb-sYQ4" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Programmer Zaman Now-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
   
-<details><summary>Contains</summary>
+<details><summary>Table of Contains</summary>
  
-<p align="justify">
-  Details Table :
-</p>
+ 
   
-<p align="justify">
-  Table Categories · Table Customers · Table Guestbooks · Table Orders · Table Product · Table Sellers · Table Wallet · Table Wishlist
-</p>
+  <a>⚫️[ Table Categories](https://github.com/farhanalaydroes/belajar-mysql/blob/main/categories.sql) </a> 
+  
+  <a>⚫️[ Table Customers](https://github.com/farhanalaydroes/belajar-mysql/blob/main/customers.sql) </a>
+  
+  <a>⚫️[ Table Guestbooks](https://github.com/farhanalaydroes/belajar-mysql/blob/main/guestbooks.sql) </a>
+  
+  <a>⚫️[ Table Orders](https://github.com/farhanalaydroes/belajar-mysql/blob/main/orders.sql) </a>
+  
+  <a>⚫️[ Table Products](https://github.com/farhanalaydroes/belajar-mysql/blob/main/product.sql) </a>
+  
+  <a>⚫️[ Table Sellers](https://github.com/farhanalaydroes/belajar-mysql/blob/main/sellers.sql) </a>
+  
+  <a>⚫️[ Table Wallets](https://github.com/farhanalaydroes/belajar-mysql/blob/main/wallet.sql) </a>
+  
+  <a>⚫️[ Table Wishlist](https://github.com/farhanalaydroes/belajar-mysql/blob/main/wishlist.sql) </a>
 
-  
+
  </details>
  
