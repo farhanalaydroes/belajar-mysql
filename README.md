@@ -6,6 +6,11 @@
 </p>
 
 <p align="justify">
+  Editor :
+</p>
+ <a href="https://code.visualstudio.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></a>
+
+<p align="justify">
   Database :
 </p>
   <a href="https://www.mysql.com//" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" /></a>
